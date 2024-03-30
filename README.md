@@ -9,3 +9,4 @@ Features
 
 Demo
 You can try the game live here.
+https://kriaaa.github.io/tic-tac-game/
